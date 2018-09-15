@@ -4,14 +4,15 @@ You can use the [editor on GitHub](https://github.com/etrotzuk/twitterfeed/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+<a class="twitter-timeline" href="https://twitter.com/AfricanParks?ref_src=twsrc%5Etfw">Tweets by AfricanParks</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
-<a class="twitter-timeline" href="https://twitter.com/AfricanParks?ref_src=twsrc%5Etfw">Tweets by AfricanParks</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # Header 1
@@ -28,6 +29,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[https://twitter.com/AfricanParks?ref_src=twsrc%5Etfw]
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
