@@ -11,6 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+<a class="twitter-timeline" href="https://twitter.com/AfricanParks?ref_src=twsrc%5Etfw">Tweets by AfricanParks</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 # Header 1
 ## Header 2
 ### Header 3
